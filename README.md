@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @alizadehmohammad
-- 👀 I’m interested in image processing
-- 🌱 I’m currently learning machine learning
+- 👋 Hi, I’m mohammad alizadeh
+-  I’m interested in image processing, Machine Learning, Reinforcement Learning, and Natural Language processing.
+- 
